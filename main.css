@@ -1,0 +1,31 @@
+/*Display*/
+header {padding-top: 20px;}
+header p {display: inline; padding-left: 40px;}
+header a {display: inline; padding-left: 30px;}
+
+.menu a {display: inline; text-decoration: none;}
+.menu {padding: 8px; text-indent: 1em; margin-bottom: 20px; width:100%;}
+ #spring {margin-left: 30px; margin-right: 65px;}
+ #summer {margin-right: 65px;}
+ #fall {margin-right: 65px;}
+
+.imglist {margin-left: 25px; margin-bottom: 30px;}
+.imglist img {height: 130px; width: 200px; margin-bottom: 5px; padding-left: 10px;}
+#summer_img {margin-left: 5px;}
+#winter_img {margin-left: 5px;}
+
+footer #SNS { margin-left: 100px; float: left;}
+footer #copyright {margin-top: 10px; float: left;}
+#seasons_coment {margin-bottom: 100px; padding-left: 20px;}
+#copyright {padding-left: 30px;}
+
+
+/*Font*/
+header p {color: #4C0B5F; font-size: 50px;}
+
+.menu a {color: white;}
+.menu {background-color: #58ACFA; border-style: solid; border-color: #045FB4; border-width: thin;}
+.menu :hover{color: green; text-shadow: 0.5px 0.5px 0.1px black;}
+
+#seasons_coment {font-size: 20px;}
+#copyright {font-weight: bold;}
