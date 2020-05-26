@@ -8,8 +8,8 @@
 
 ### JavaScript 연습
 
-#### 위치
-20.5.26
+#### 위치 (20.5.26)
+
 <script type = "text/javascript"><br>
   //JS코드<br>
 </script><br>
